@@ -1,3 +1,9 @@
+---
+title: "Nuxt Content"
+publishOn: 2021-12-11T00:00:00
+tags: ["vue", "nuxt", "content", "frontend"]
+---
+
 ## What is Nuxt Content?
 
 Empower your NuxtJS application with `@nuxt/content` module: write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a **Git-based Headless CMS**.
